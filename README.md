@@ -9,7 +9,7 @@
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px">
 
 
-<div style="display: flex;">
+<div style="display: flex; size="30px">
  <a href="https://www.linkedin.com/in/halil-ibrahim-t%C3%BCt%C3%BCnc%C3%BC-11407113b/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" style="margin-left: 10px; margin-top: 10px" width="30px"> </a>
 
 <a href="https://twitter.com/jshelloworld"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="30px" style="margin-left: 10px; margin-top: 10px"> </a>
