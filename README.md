@@ -1,4 +1,4 @@
-### Hi there I'am İbrahim 👋
+### Hi there, I' İbrahim 👋
 I am a Frontend Developer. I love coding, writing, speaking and traveling.
 
 Glad to see you here! 😄
