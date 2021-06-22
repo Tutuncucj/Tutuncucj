@@ -1,6 +1,6 @@
 
 
-# Hi there, I' İbrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
+# Hi there, I'am İbrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
 ### I am a Frontend Developer. I love coding, writing, speaking and traveling.
 
