@@ -1,16 +1,6 @@
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    # Hi there, I'am İbrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
+# Hi there, I' İbrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
 ### I am a Frontend Developer. I love coding, writing, speaking and traveling.
 
@@ -41,5 +31,4 @@
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" width="40px" style="margin-left: 5px; margin-top: 10px">
 
-</body>
-</html>
+
