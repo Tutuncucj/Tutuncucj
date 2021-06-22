@@ -1,34 +1,3 @@
-### Hi there, I' İbrahim 👋
-I am a Frontend Developer. I love coding, writing, speaking and traveling.
-
-Glad to see you here! 😄
-
-📍 Currently base at: Istanbul, Turkey
-
-
-Connect with me 
-<!--
-**Tutuncucj/Tutuncucj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I' İbrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
 ### I am a Frontend Developer. I love coding, writing, speaking and traveling.
@@ -37,7 +6,7 @@ Here are some ideas to get you started:
 
 ### 📍 Currently base at: Istanbul, Turkey 
 
-### Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px">
+## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px">
 <hr>
 
 <div style="display: flex;">
