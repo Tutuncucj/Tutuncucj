@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there I'am İbrahim 👋
+I am a Frontend Developer. I love coding, writing, speaking and traveling.
 
+Glad to see you here! 😄
+
+📍 Currently base at: Istanbul, Turkey
+
+
+Connect with me 
 <!--
 **Tutuncucj/Tutuncucj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
