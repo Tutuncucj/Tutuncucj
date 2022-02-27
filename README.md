@@ -30,5 +30,7 @@
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40px" style="margin-left: 5px; margin-top: 10px">
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" width="40px" style="margin-left: 5px; margin-top: 10px">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="40px" style="margin-left: 5px; margin-top: 10px">
+ 
 
 
